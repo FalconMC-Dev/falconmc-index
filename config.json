@@ -1,4 +1,5 @@
 {
     "dl": "https://registry.falconmc.org/api/v1/crates",
-    "api": "https://registry.falconmc.org"
+    "api": "https://registry.falconmc.org",
+    "allowed-registries": ["https://github.com/rust-lang/crates.io-index", "https://github.com/FalconMC-Dev/falconmc-index"]
 }
